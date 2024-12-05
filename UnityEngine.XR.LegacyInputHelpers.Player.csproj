@@ -58,8 +58,8 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.11\Runtime\CameraOffset.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.11\Runtime\ArmModels\ArmModel.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.11\Runtime\CameraOffset.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.11\Runtime\ArmModels\TransitionArmModel.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.11\Runtime\ArmModels\SwingArmModel.cs" />
   </ItemGroup>

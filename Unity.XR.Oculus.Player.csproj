@@ -59,20 +59,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusSettings.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\ColorScale.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusRestarter.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusLoader.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusBoundary.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusPerformance.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\InputFocus.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\FFR.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusDevelopment.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\RegisterUpdateCallback.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusPlugin.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\Device.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\InputSystem\DeviceLayouts.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\InputFocus.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\Device.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusDevelopment.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\FFR.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusPlugin.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusSession.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusUsages.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\ColorScale.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusRestarter.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusBoundary.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\RegisterUpdateCallback.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusLoader.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\OculusPerformance.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Library\PackageCache\com.unity.xr.oculus@3.4.1\Runtime\x86\AudioPluginOculusSpatializer.dll" />

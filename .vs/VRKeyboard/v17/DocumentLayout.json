@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\VRKeyboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F73482-AF89-B3A2-0B5C-4E863023126E}|Assembly-CSharp.csproj|d:\\unityprojects\\vrkeyboard\\assets\\nonnativekeyboard\\scripts\\keyboard\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F73482-AF89-B3A2-0B5C-4E863023126E}|Assembly-CSharp.csproj|solutionrelative:assets\\nonnativekeyboard\\scripts\\keyboard\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F73482-AF89-B3A2-0B5C-4E863023126E}|Assembly-CSharp.csproj|D:\\UnityProjects\\VRKeyboard\\assets\\nonnativekeyboard\\scripts\\buttons\\keyaboardbuttonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F73482-AF89-B3A2-0B5C-4E863023126E}|Assembly-CSharp.csproj|solutionrelative:assets\\nonnativekeyboard\\scripts\\buttons\\keyaboardbuttonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F73482-AF89-B3A2-0B5C-4E863023126E}|Assembly-CSharp.csproj|d:\\unityprojects\\vrkeyboard\\assets\\bng framework\\scripts\\core\\inputbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F73482-AF89-B3A2-0B5C-4E863023126E}|Assembly-CSharp.csproj|solutionrelative:assets\\bng framework\\scripts\\core\\inputbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputBridge.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\VRKeyboard\\Assets\\BNG Framework\\Scripts\\Core\\InputBridge.cs",
+              "RelativeDocumentMoniker": "Assets\\BNG Framework\\Scripts\\Core\\InputBridge.cs",
+              "ToolTip": "D:\\UnityProjects\\VRKeyboard\\Assets\\BNG Framework\\Scripts\\Core\\InputBridge.cs",
+              "RelativeToolTip": "Assets\\BNG Framework\\Scripts\\Core\\InputBridge.cs",
+              "ViewState": "AgIAAEcDAAAAAAAAAAAgwFcDAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:53:03.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyaboardButtonBase.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\VRKeyboard\\Assets\\NonNativeKeyboard\\Scripts\\Buttons\\KeyaboardButtonBase.cs",
+              "RelativeDocumentMoniker": "Assets\\NonNativeKeyboard\\Scripts\\Buttons\\KeyaboardButtonBase.cs",
+              "ToolTip": "D:\\UnityProjects\\VRKeyboard\\Assets\\NonNativeKeyboard\\Scripts\\Buttons\\KeyaboardButtonBase.cs",
+              "RelativeToolTip": "Assets\\NonNativeKeyboard\\Scripts\\Buttons\\KeyaboardButtonBase.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwDsAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:11:51.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Keyboard.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\VRKeyboard\\Assets\\NonNativeKeyboard\\Scripts\\Keyboard\\Keyboard.cs",
+              "RelativeDocumentMoniker": "Assets\\NonNativeKeyboard\\Scripts\\Keyboard\\Keyboard.cs",
+              "ToolTip": "D:\\UnityProjects\\VRKeyboard\\Assets\\NonNativeKeyboard\\Scripts\\Keyboard\\Keyboard.cs",
+              "RelativeToolTip": "Assets\\NonNativeKeyboard\\Scripts\\Keyboard\\Keyboard.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:05:00.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

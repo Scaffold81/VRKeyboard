@@ -58,8 +58,8 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Library\PackageCache\com.unity.xr.openxr@1.13.2\RuntimeDebugger\DebuggerState.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.openxr@1.13.2\RuntimeDebugger\RuntimeDebuggerOpenXRFeature.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.openxr@1.13.2\RuntimeDebugger\DebuggerState.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Library\PackageCache\com.unity.xr.openxr@1.13.2\RuntimeDebugger\Unity.XR.OpenXR.Features.RuntimeDebugger.asmdef" />
